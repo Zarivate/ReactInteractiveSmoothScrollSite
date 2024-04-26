@@ -28,7 +28,9 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1>Welcome</HeroH1>
-        <HeroP>A basic React website utilizing core React concepts.</HeroP>
+        <HeroP>
+          A basic React website landing page utilizing core React concepts.
+        </HeroP>
         <HeroBtnWrapper>
           <Button
             to="signup"
